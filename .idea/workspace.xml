@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="394d2b83-9ea5-48a4-b52d-e29f51817481" name="Changes" comment="WebDriver">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="394d2b83-9ea5-48a4-b52d-e29f51817481" name="Changes" comment="DodanieChromOptions">
       <change beforePath="$PROJECT_DIR$/src/test/java/org/nowyprojekt/TestScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/nowyprojekt/TestScenario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +37,12 @@
                 <item name="NowyProjekt" type="f1a62948:ProjectNode" />
                 <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
                 <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="NowyProjekt" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="testCompileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
               </path>
             </expand>
             <select />
@@ -162,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681472863210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DodanieChromOptions">
+      <created>1681473910308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681473910308</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +192,7 @@
     <MESSAGE value="NowyProjekt" />
     <MESSAGE value="SeleniumDodane" />
     <MESSAGE value="WebDriver" />
-    <option name="LAST_COMMIT_MESSAGE" value="WebDriver" />
+    <MESSAGE value="DodanieChromOptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="DodanieChromOptions" />
   </component>
 </project>
